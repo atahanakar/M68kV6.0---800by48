@@ -2,7 +2,8 @@
 
 ### Functionalities
 
-*4 Way Set Associative Cache with LRU* \n
+*4 Way Set Associative Cache with LRU*
+
 *IIC, SPI, and CAN interfaces are enabled*
 
 Reach me out if you want to see the demonstration on the DE1-SoC. 
